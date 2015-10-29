@@ -1,0 +1,5 @@
+# Enter the block id, which will be used for boosting. For example: if set to 19, players will be boosted when standing on sponge
+# IDs can be found here: http://minecraft-ids.grahamedgecombe.com/
+block-id: 19
+# If set to true, players will not get boosted when sneaking
+notJumpWhenSneaking: true

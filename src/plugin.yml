@@ -1,0 +1,9 @@
+name: BlockBoost
+version: 1.0
+description: Give players a huge boost
+main: de.zeryther.blockboost.BlockBoost
+
+commands:
+  blockboost:
+    description: Main command for BlockBoost
+    aliases: [bb]
